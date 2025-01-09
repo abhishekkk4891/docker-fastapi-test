@@ -3,5 +3,5 @@
 Developed By Abhishek Patil
 <hr>
 <br> 
-![Docker-compose.yml file](Image/docker-compose.png)
+![Docker-compose.yml file](docker-compose.png)
 ![Example Image](Image/docker-compose.png)
