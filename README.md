@@ -4,4 +4,4 @@ Developed By Abhishek Patil
 <hr>
 <br> 
 ![Docker-compose.yml file](docker-compose.png)
-![Example Image](Image/Diagram.jpg)
+![Example Image](Image/docker-compose.png)
